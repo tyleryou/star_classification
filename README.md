@@ -1,4 +1,4 @@
-# star_classification
+# Star Classification
 
 This dataset was obtained from Kaggle at: https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17
 
