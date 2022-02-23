@@ -1,8 +1,11 @@
 # Star Classification
 
+![image](https://user-images.githubusercontent.com/84543484/155414709-90300560-9a49-4433-a520-1d10c42bddba.png)
+
+
 This dataset was obtained from Kaggle at: https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17
 
-The purpose of this dataset is to be used in classification models for designating stars, galaxies, and quasars.
+The purpose of this dataset is to be used in classification models for designating stars, galaxies, and quasars using data taken from spectral characteristics. The nomenclature below includes all of the celestial features used in the dataset.
 
 ## Nomenclature 
 - obj_ID = Object Identifier, the unique value that identifies the object in the image catalog used by the CAS
